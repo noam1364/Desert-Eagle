@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/workspaces/C# workspace/Project Hindenburg/Project Hindenburg/Content/Textures/background2.png</File>
+    <File>C:/workspaces/C# workspace/Project Hindenburg/Project Hindenburg/Content/Textures/player.png</File>
+    <File>C:/workspaces/C# workspace/Project Hindenburg/Project Hindenburg/Content/Textures/piller1.png</File>
+    <File>C:/workspaces/C# workspace/Project Hindenburg/Project Hindenburg/Content/Textures/pillerSample.png</File>
+    <File>C:/workspaces/C# workspace/Project Hindenburg/Project Hindenburg/Content/Textures/gameOver.png</File>
+    <File>C:/workspaces/C# workspace/Project Hindenburg/Project Hindenburg/Content/Textures/digits.png</File>
+    <File>C:/workspaces/C# workspace/Project Hindenburg/Project Hindenburg/Content/Audio/wma/gameOverSound.wma</File>
+    <File>C:/workspaces/C# workspace/Project Hindenburg/Project Hindenburg/Content/Audio/wma/jumpSound.wma</File>
+    <File>C:/workspaces/C# workspace/Project Hindenburg/Project Hindenburg/Content/Audio/wma/scoreSound.wma</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

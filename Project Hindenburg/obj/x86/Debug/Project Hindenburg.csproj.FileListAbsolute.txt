@@ -1,0 +1,39 @@
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\Project Hindenburg.exe
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\Project Hindenburg.pdb
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\SharpDX.dll
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\SharpDX.xml
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\obj\x86\Debug\Project Hindenburg.csproj.CoreCompileInputs.cache
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\obj\x86\Debug\Project Hindenburg.exe
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\obj\x86\Debug\Project Hindenburg.pdb
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\Content\Textures\background2.xnb
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\Content\Textures\player.xnb
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\Content\Textures\piller1.xnb
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\Content\Textures\pillerSample.xnb
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\Content\Textures\gameOver.xnb
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\Content\Textures\digits.xnb
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\Content\Audio\wma\gameOverSound.wma
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\Content\Audio\wma\gameOverSound.xnb
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\Content\Audio\wma\jumpSound.wma
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\Content\Audio\wma\jumpSound.xnb
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\Content\Audio\wma\scoreSound.wma
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\Content\Audio\wma\scoreSound.xnb
+C:\Workspaces\C# workspace\Project Hindenburg\Project Hindenburg\obj\x86\Debug\Project Hindenburg.csprojAssemblyReference.cache
+C:\Workspaces\C# workspace\Project Hindenburg\Project Hindenburg\obj\x86\Debug\Project Hindenburg.csproj.CopyComplete
+C:\Workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\ConsoleTableExt.dll
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\libtensorflow.dll
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\MathNet.Numerics.dll
+C:\workspaces\C# workspace\Project Hindenburg\Project Hindenburg\bin\Windows\x86\Debug\MathNet.Numerics.xml
